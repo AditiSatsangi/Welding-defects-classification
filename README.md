@@ -1,1 +1,3 @@
 # Welding defect classification
+
+This project on Welding Defect Classification focuses on using computer vision and deep learning techniques to identify and classify defects in welded structures. The project leverages image processing and CNN-based models to detect common welding defects such as porosity, cracks, and incomplete fusion. By automating defect detection, the system aims to improve quality control in manufacturing and reduce manual inspection errors. This work has applications in industries like automotive, aerospace, and construction, ensuring the structural integrity of welded components.
